@@ -1,0 +1,6 @@
+framework module RoundCornerProgress {
+  umbrella header "RoundCornerProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
