@@ -1,0 +1,6 @@
+framework module SwiftConstraints {
+  umbrella header "SwiftConstraints-umbrella.h"
+
+  export *
+  module * { export * }
+}
